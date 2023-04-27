@@ -1,0 +1,14 @@
+[
+  {
+    "_class": "pashtetpashtetovv.entity.User",
+    "email": "123",
+    "username": "first",
+    "password" : "{noop}123",
+    "role" : "USER"
+  },
+  {
+    "shortName": "ft",
+    "longName": "first task",
+    "_class": "pashtetpashtetovv.entity.Task"
+  }
+]
